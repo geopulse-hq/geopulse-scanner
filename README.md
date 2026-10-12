@@ -16,9 +16,9 @@ Open source (MIT). Bring your own API keys. A full scan costs about $0.35 on you
 
 ### Two ways to use it
 
-| | **Run it yourself** (this repo) | **[GeoPulse Cloud](https://smrtgeo.com/open-source?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-cloud)** |
+| | **Run it yourself** (this repo) | **[GeoPulse Cloud](https://smrtgeo.com/?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-cloud)** |
 |---|---|---|
-| Setup | Node.js + your own OpenAI / Perplexity keys | Sign in with your email — no keys, no install |
+| Setup | Node.js + your own OpenAI / Perplexity keys | Use the cloud interface — no keys, no install |
 | One scan: 10 questions × 2 engines × 2 samples | ✓ full scan, local HTML / JSON / CSV report | ✓ same protocol |
 | Recommendation + citation evidence, raw answers | ✓ | ✓ |
 | Saved history and run-to-run comparison | — you keep the files | ✓ |

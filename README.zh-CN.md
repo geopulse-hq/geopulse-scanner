@@ -16,9 +16,9 @@ GeoPulse Scanner 用客户会问的问题去问 OpenAI 和 Perplexity（联网�
 
 ### 两种用法
 
-| | **自己运行**（本仓库） | **[GeoPulse 云服务](https://smrtgeo.com/open-source?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-cloud)** |
+| | **自己运行**（本仓库） | **[GeoPulse 云服务](https://smrtgeo.com/?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-cloud)** |
 |---|---|---|
-| 准备 | Node.js + 自己的 OpenAI / Perplexity key | 填邮箱登录，不用 key、不用安装 |
+| 准备 | Node.js + 自己的 OpenAI / Perplexity key | 在线使用，不用 key、不用安装 |
 | 一次检测：10 题 × 2 引擎 × 2 次 | ✓ 完整检测，本地 HTML / JSON / CSV 报告 | ✓ 同一套协议 |
 | 推荐、引用证据和原回答 | ✓ | ✓ |
 | 保存历史、前后对比 | —（文件自己保存） | ✓ |
