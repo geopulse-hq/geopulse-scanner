@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Don't want to install anything?
-    url: https://smrtgeo.com/open-source?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=issue-template
+    url: https://smrtgeo.com/?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=issue-template
     about: GeoPulse Cloud runs the same scan for you and keeps the history.
