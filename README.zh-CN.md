@@ -10,6 +10,8 @@ GeoPulse Scanner 用客户会问的问题去问 OpenAI 和 Perplexity（联网�
 
 ![样例报告（虚构品牌）](docs/images/report-desktop-top.png)
 
+<sub>样例数据全部虚构，没有调用任何 API。[看一条回答的判断依据](docs/images/report-desktop-answers.png) · [50 秒演示视频（MP4）](docs/demo/geopulse-scanner-demo.mp4)</sub>
+
 ---
 
 ### 两种用法

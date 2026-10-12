@@ -10,7 +10,7 @@ Open source (MIT). Bring your own API keys. A full scan costs about $0.35 on you
 
 ![Sample report — fictitious brand](docs/images/report-desktop-top.png)
 
-<sub>Demo report built from fictitious sample answers (no API called). [Open an answer](docs/images/report-desktop-answers.png) to see the rule that fired and the sources.</sub>
+<sub>Demo report built from fictitious sample answers (no API called). [Open an answer](docs/images/report-desktop-answers.png) to see the rule that fired and the sources · [50-second walkthrough (MP4)](docs/demo/geopulse-scanner-demo.mp4)</sub>
 
 ---
 
