@@ -1,0 +1,26 @@
+{
+  "name": "geopulse-scanner",
+  "version": "0.1.0",
+  "description": "Open-source AI visibility scanner: is your brand recommended or your site cited in AI search answers? Bring your own API keys.",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan": "tsx src/cli.ts run",
+    "demo": "tsx src/cli.ts demo",
+    "init": "tsx src/cli.ts init",
+    "test": "tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  },
+  "keywords": ["geo", "generative-engine-optimization", "ai-search", "brand-monitoring", "seo", "openai", "perplexity"]
+}
