@@ -104,4 +104,4 @@ Issues are read once a week. Security problems: please use GitHub's private **Re
 
 ## License
 
-MIT © 2026 MORROW PRISM PTE. LTD. — the company behind [GeoPulse](https://smrtgeo.com/?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-license).
+MIT © 2026 MORROW PRISM PTE. LTD. — the company behind [GeoPulse](https://smrtgeo.com/?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-license) and [China Legal Hub](https://www.chinalegalhub.com/?utm_source=github&utm_medium=referral&utm_campaign=clh_referral&utm_content=scanner-readme), fixed-price legal help for businesses buying from or selling into China.

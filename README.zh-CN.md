@@ -76,4 +76,4 @@ npm run scan -- --config scan.json
 
 ## 许可
 
-MIT © 2026 MORROW PRISM PTE. LTD.
+MIT © 2026 MORROW PRISM PTE. LTD.，该公司同时运营 [GeoPulse](https://smrtgeo.com/?utm_source=github&utm_medium=referral&utm_campaign=oss-launch&utm_content=readme-license) 和 [China Legal Hub](https://www.chinalegalhub.com/?utm_source=github&utm_medium=referral&utm_campaign=clh_referral&utm_content=scanner-readme-zh)（面向中国采购与对华业务的固定价法律服务）。
