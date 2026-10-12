@@ -100,7 +100,7 @@ Up to 10 questions; the recommended mix is 6 + 4. Write them the way your custom
 
 ## Support
 
-Issues are read once a week. Security problems: please email support@chinalegalhub.com rather than opening a public issue.
+Issues are read once a week. Security problems: please use GitHub's private **Report a vulnerability** button (Security tab) rather than a public issue.
 
 ## License
 
