@@ -34,7 +34,7 @@ Self-hosting stays free and complete — the scanner never needs the cloud to pr
 Requires Node.js 20+.
 
 ```bash
-git clone https://github.com/geopulse-hq/geopulse-scanner.git
+git clone https://github.com/morrowprism/geopulse-scanner.git
 cd geopulse-scanner
 npm install
 ```

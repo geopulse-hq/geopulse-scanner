@@ -32,7 +32,7 @@ GeoPulse Scanner 用客户会问的问题去问 OpenAI 和 Perplexity（联网�
 需要 Node.js 20 以上。
 
 ```bash
-git clone https://github.com/geopulse-hq/geopulse-scanner.git
+git clone https://github.com/morrowprism/geopulse-scanner.git
 cd geopulse-scanner
 npm install
 ```
